@@ -1,0 +1,3 @@
+name="dachi"
+print(name)
+
