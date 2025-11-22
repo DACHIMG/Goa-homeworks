@@ -1,0 +1,30 @@
+# debuging შედგება_3 რაღაცისგან:writing, runing, debuging debuging_ი გამოიყენება ბაგების გამოსასწორებლად
+# print_შეუძლია, რომ ტერმინალში რაღაცეები გამოიტანოს
+# ცვლადს შეუძლია, რომ name_ის მაგივრად გამოიტანოს_dachi
+# ცვლადი გვჭირდება როცა რაღაცა უნდა შევანახინოთ კომპიუტერს
+# მონაცემთა ტიპი არის კოდის წერის წესი
+name=(22)
+print(name)
+name=(1)
+print(name)
+name=(7)
+print(name)
+name=(21)
+print(name)
+name=(67)
+print(name)
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
+print("GOA BEST!")
