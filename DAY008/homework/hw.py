@@ -1,0 +1,18 @@
+# input_ით პითონში შეგვიძლია, რომ რაღაცა გამოვიტანოთ ტერმინალში და შიგ ჩავწეროთ რაღაცეები 
+# როდესაც ცვლადში ვწერთ_input_ის მნიშვნელობას იმახსოვრებს ჩანაწერს და როდესაც_print_ში ვწერთ გამოაქვს ტერმინალში დე შიგ რაღაცის ჩაწერა შეგვიძლია
+name=input(" enter your name: ")
+print(name)
+number=input(" enter your number: ")
+print(number)
+middle_name=input(" enter your middle name: ")
+print(middle_name)
+age=input(" enter your age: ")
+print(age)
+skils=input(" enter your skils: ")
+print(skils)
+name=input(" enter your name: ")
+print(name)
+surname=input(" enter your surname: ")
+print(surname)
+age=input(" enter your age: ")
+print(age)
