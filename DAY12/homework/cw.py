@@ -1,0 +1,26 @@
+num1 = int(input(" Enter any number: "))
+num2 = int(input(" Enter any number: "))
+num3 = int(input(" Enter any number: "))
+print(num1 -(num2 * num3) )
+
+age = int(input(" Enter your age: "))
+birthday = int(input(" Enter your birthday: "))
+print("i am 9 years old")
+print("my birthday is in 2016")
+
+num1 = int(input(" Enter any number: "))
+num2 = int(input(" Enter any number: "))
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num1 / num2)
+print(num1 ** num2)
+print(num1 // num2)
+
+name = input(" Enter your name: ")
+age =input(" Enter your age: ")
+birthday_year = input(" Enter your birthday year: ")
+print( name + age + birthday_year )
+
+in_10_years = int(input(" Enter your age in 10 years: "))
+print(in_10_years + 10)
